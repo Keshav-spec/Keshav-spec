@@ -1,4 +1,4 @@
-# Hi there, I'm Keshav Sharma 👋
+# Hi there, I'm Keshav 👋
 
 **Student of Data Science**  
 *Building intelligent systems, one model at a time.*
