@@ -50,18 +50,6 @@ Analytical Thinking | Problem Solving | Team Collaboration | Strong Communicatio
 
 ---
 
-## 🌟 Notable Projects
-
-- **Brain Tumor Analysis with Hybrid Model**  
-  *Applying deep learning and hybrid techniques for medical image analysis.*
-
-- **Bone Marrow Classification**  
-  *Automated bone marrow cell classification using CNNs.*
-
-- **Comment Toxicity Model**  
-  *NLP-based sentiment analysis to detect toxic comments in online forums.*
-
----
 
 ## 📫 Connect with Me
 
